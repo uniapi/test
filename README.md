@@ -6,5 +6,5 @@ Test Repository
   
   Task   | Description
   ------ | -------------
-  [Data](../data) | Data Repository
-  [Src](../src) | Source Repository
+  [Data](../../tree/data) | Data Repository
+  [Src](https://github.com/uniapi/test/tree/src) | Source Repository
