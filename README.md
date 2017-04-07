@@ -6,5 +6,5 @@ Test Repository
   
   Task   | Description
   ------ | -------------
-  [Data] (./tree/data) | Data Repository
-  [Src] (./tree/src) | Source Repository
+  [Data](./tree/data) | Data Repository
+  [Src](./tree/src) | Source Repository
